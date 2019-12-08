@@ -1,8 +1,7 @@
-#Równania różniczkowe: metody numeryczne 1
+# Równania różniczkowe: Metody numeryczne rozwiązywania zagadnień początkowych
+_Jan Havránek, Michał Pawliszko_
 
 Materiały do pierwszych ćwiczeń z równań różniczkowych.
-
-Jan Havránek, Michał Pawliszko
 
 ## Colab links
 Jeżeli chcesz pracować w Colabie, skorzystaj z linków poniżej:
