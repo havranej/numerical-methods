@@ -1,0 +1,4 @@
+hide
+__pycache__
+lib/__pycache__
+.ipynb_checkpoints
