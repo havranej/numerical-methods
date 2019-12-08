@@ -1,3 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from ipywidgets import interact
+
 class DifferentialEquationSolution:
     def __init__(self, equation, solving_function, h = 0.01, title = "Untitled solution", exact = False):
         self.equation = equation

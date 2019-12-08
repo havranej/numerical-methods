@@ -1,3 +1,5 @@
+import numpy as np
+
 def euler(t_list, f, x0):
     result = []
     result.append(x0)
